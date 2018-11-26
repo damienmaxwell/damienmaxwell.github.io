@@ -2,7 +2,10 @@
 
 <img alt="linking-sigil" src="https://damienmaxwell.github.io/images/linking-sigil.png" width="200"/>
 
-# FAQ: 
+## Wiki
+Check out the [wiki](https://github.com/damienmaxwell/damienmaxwell.github.io/wiki)!
+
+## FAQ: 
 
 **Why?**
 That question will get you into trouble, buddyboy. 
