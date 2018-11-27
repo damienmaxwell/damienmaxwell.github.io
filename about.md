@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Yeah, I'm terrible at writing about myself. I like learning things. Sciencing. Doing computer things n stuff. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Uhhhh....
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[damienmaxwell23@gmail.com](mailto:damienmaxwell23@gmail.com)
