@@ -52,13 +52,13 @@ I can taste victory. I'm browsing a [unicode chart](https://unicode-table.com/en
 
 ![237c_01](https://damienmaxwell.github.io/images/unicodal/237c_01.png)
 
-Wat. 
+#### Wat. 
 
 Zoom in and enhance. 
 
-![237c_02](https://damienmaxwell.github.io/images/unicodal/237c_01.png)
+![237c_02](https://damienmaxwell.github.io/images/unicodal/237c_02.png)
 
-˙ʇɐʍ
+## ˙ʇɐʍ
 
 As I'm reveling in the high weirdness that is a single character that is virtually a verbatim linking sigil, who but [Alan freaking Watts](https://www.youtube.com/watch?v=9RMHHwJ9Eqk) comes on in through the headphones. 
 
