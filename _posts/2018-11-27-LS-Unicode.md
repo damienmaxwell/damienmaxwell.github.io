@@ -74,7 +74,7 @@ Which, of course, means _I_ can inflect it with semantics.
 
 ##### And upon this mark
 
-·⍼
+<span style="font-family:Papyrus; font-size:23;">·⍼</span>
 
 ##### I unite the worlds
 
