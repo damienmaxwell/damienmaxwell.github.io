@@ -50,13 +50,13 @@ The math block also mutates the behavior of the lightning bolt.
 
 I can taste victory. I'm browsing a [unicode chart](https://unicode-table.com/en), looking for more interesting symbols to try to shoehorn in, and a little voice in the back of my mind is like, "Why don't you manifest the missing pieces?" An interesting thought, but that would require some crazy retrocausal crap that my metaphysical model reeeallly rebels at the idea of, so I brushed it off. The miscelaneous math symbols are looking pretty promising, when suddenly...
 
-![237c_01](https://damienmaxwell.github.io/images/237c_01.png)
+![237c_01](https://damienmaxwell.github.io/images/unicodal/237c_01.png)
 
 Wat. 
 
 Zoom in and enhance. 
 
-![237c_02](https://damienmaxwell.github.io/images/237c_01.png)
+![237c_02](https://damienmaxwell.github.io/images/unicodal/237c_01.png)
 
 ˙ʇɐʍ
 
