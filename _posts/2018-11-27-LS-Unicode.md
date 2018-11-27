@@ -48,7 +48,25 @@ The math block also mutates the behavior of the lightning bolt.
 
 # ⭍⃒̂͢    🜹↯̶⃒̀͢ ⃗
 
-I can taste victory. I'm browsing a unicode chart, looking for more the	
+I can taste victory. I'm browsing a [unicode chart](https://unicode-table.com/en), looking for more interesting symbols to try to shoehorn in, and a little voice in the back of my mind is like, "Why don't you manifest the missing pieces?" An interesting thought, but that would require some crazy retrocausal crap that my metaphysical model reeeallly rebels at the idea of, so I brushed it off. The miscelaneous math symbols are looking pretty promising, when suddenly...
+
+![237c_01]()
+
+Wat. 
+
+Zoom in and enhance. 
+
+![237c_01]()
+
+˙ʇɐʍ
+
+As I'm reveling in the high weirdness that is a single character that is virtually a verbatim linking sigil, who but [Alan freaking Watts](https://www.youtube.com/watch?v=9RMHHwJ9Eqk) comes on in through the headphones. 
+
+>  So then, let’s suppose that you were able every night to dream any dream you wanted to dream
+
+![expanding brain](https://i.kinja-img.com/gawker-media/image/upload/s--eiIVX4Oq--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/yccc3f4vcwsxyj6eydy2.jpg) 
+
+Woof. Yeah. Needless to say, I flashed back a bit. 
 
 
 ⍼ in binary: 
