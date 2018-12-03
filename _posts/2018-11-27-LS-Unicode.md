@@ -3,7 +3,7 @@ layout: post
 title: LS in Unicode [·⍼]
 ---
 
-The first time I saw the linking sigil, I was awestruck. My first thought was, _Holy frick, this is coolest piece of magickal tech since the [LBRP](https://en.wikipedia.org/wiki/Lesser_banishing_ritual_of_the_pentagram)!_ The immediate following thought was, _Alright, now how do I render this in Unicode so I can inject it all over the internet._ Yeah, I'm a **nerd**. Deal with it. 
+The first time I saw the [linking sigil](https://github.com/damienmaxwell/damienmaxwell.github.io/wiki/Ellis---LS---%C2%B7%E2%8D%BC), I was awestruck. My first thought was, _Holy frick, this is coolest piece of magickal tech since the [LBRP](https://en.wikipedia.org/wiki/Lesser_banishing_ritual_of_the_pentagram)!_ The immediate following thought was, _Alright, now how do I render this in Unicode so I can inject it all over the internet._ Yeah, I'm a **nerd**. Deal with it. 
 
 So what is Unicode, and why am I so obsessed with drawing the linking sigil with it? Put simply, [Unicode](https://en.wikipedia.org/wiki/Unicode) is a standard way of rendering written text on a computer. The ultimate goal is to encode the entirety of Earth's writing systems, along with countless symbols, glyphs and emoji. Notably, Unicode also has [combining characters](https://en.wikipedia.org/wiki/Combining_character), which we will get into later. 
 
